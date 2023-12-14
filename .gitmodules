@@ -1,0 +1,3 @@
+[submodule "src/gitservice_utils"]
+	path = src/gitservice_utils
+	url = git@github.com:bhattaraibishal50/gitservice_utils.git
